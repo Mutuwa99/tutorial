@@ -1,0 +1,6 @@
+1.database:postgres----1 ------done .
+2.link the db that yu created with  your app   -----done 
+2. start customising the app:
+    ---building the login page:  ---- done
+    ------ we need to make te urls file for th django app 
+
